@@ -38,7 +38,7 @@ const contactItems = [
   {
     icon: Globe,
     label: 'Portfolio',
-    value: 'portfolio.example.com',
+    value: 'portfolio',
     href: contactInfo.portfolio,
   },
 ]
