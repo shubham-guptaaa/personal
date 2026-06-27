@@ -20,7 +20,7 @@ export const footerLinks = [
 export const socialLinks = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/shubham-gupta-077a40276/', icon: 'linkedin' },
   { label: 'GitHub', href: 'https://github.com/shubham-guptaaa', icon: 'github' },
-  { label: 'Portfolio', href: 'https://portfolio.example.com', icon: 'globe' },
+  { label: 'Portfolio', href: 'https://shubham-portfolio-s.vercel.app/', icon: 'globe' },
 ]
 
 export const contactInfo = {
@@ -29,5 +29,5 @@ export const contactInfo = {
   location: 'Greater Noida, India',
   linkedin: 'https://www.linkedin.com/in/shubham-gupta-077a40276/',
   github: 'https://github.com/shubham-guptaaa',
-  portfolio: 'https://portfolio.example.com',
+  portfolio: 'https://shubham-portfolio-s.vercel.app/',
 }
