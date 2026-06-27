@@ -1,0 +1,42 @@
+export const certifications = [
+  {
+    id: 1,
+    title: 'Generative AI Virtual Internship',
+    issuer: 'Google',
+    date: 'Jul 2024 - Sept 2024',
+    credentialId: 'N/A',
+    link: 'https://grow.google/',
+  },
+  {
+    id: 2,
+    title: 'AIML Virtual Internship',
+    issuer: 'Google',
+    date: 'Apr 2024 - Jun 2024',
+    credentialId: 'N/A',
+    link: 'https://grow.google/',
+  },
+  {
+    id: 3,
+    title: 'Cloud Virtual Internship',
+    issuer: 'Amazon Web Services',
+    date: 'Sept 2023 - Nov 2023',
+    credentialId: 'N/A',
+    link: 'https://aws.amazon.com/training/',
+  },
+  {
+    id: 4,
+    title: 'CCNA: Introduction to Networks',
+    issuer: 'Cisco Networking Academy',
+    date: 'Mar 2025 - May 2025',
+    credentialId: 'N/A',
+    link: 'https://www.netacad.com/',
+  },
+  {
+    id: 5,
+    title: 'CCNA: Switching, Routing, and Wireless Essentials',
+    issuer: 'Cisco Networking Academy',
+    date: 'Mar 2025 - May 2025',
+    credentialId: 'N/A',
+    link: 'https://www.netacad.com/',
+  },
+]
